@@ -6,6 +6,7 @@ using System.Windows.Threading;
 
 namespace EindprojectProgrammeren2
 {
+    // Simon de Klerk
     /// <summary>
     /// Interaction logic for succes.xaml
     /// </summary>
